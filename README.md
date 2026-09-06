@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
