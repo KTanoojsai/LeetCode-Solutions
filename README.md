@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -47,7 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
