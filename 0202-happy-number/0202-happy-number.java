@@ -1,18 +1,20 @@
-import java.util.HashSet;
-
 class Solution {
     public boolean isHappy(int n) {
-        HashSet<Integer> h = new HashSet<>();
-        while (n != 1 && !h.contains(n)) {
-            h.add(n);
-            int sum = 0;
-            while (n > 0) {
-                int digit = n % 10;
-                sum += digit * digit;
-                n /= 10;
-            }
-            n = sum;
+        int slow = n;
+        int fast = getNext(n);
+        while (fast != 1 && slow != fast) {
+            slow = getNext(slow);
+            fast = getNext(getNext(fast));
         }
-        return n == 1;
+        return fast == 1;
+    }
+    private int getNext(int n) {
+        int sum = 0;
+        while (n > 0) {
+            int digit = n % 10;
+            sum += digit * digit;
+            n /= 10;
+        }
+        return sum;
     }
 }
