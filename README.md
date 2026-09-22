@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
