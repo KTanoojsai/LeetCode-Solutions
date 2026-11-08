@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -257,4 +259,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
