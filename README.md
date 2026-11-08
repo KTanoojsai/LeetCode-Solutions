@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
