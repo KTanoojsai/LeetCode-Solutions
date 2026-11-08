@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0866-prime-palindrome](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -252,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
