@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0400-nth-digit) |
@@ -235,4 +237,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
