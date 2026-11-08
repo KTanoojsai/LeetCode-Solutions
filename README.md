@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
