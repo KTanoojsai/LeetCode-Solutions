@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1250-check-if-it-is-a-good-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0866-prime-palindrome](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
+| [1250-check-if-it-is-a-good-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
+| [1250-check-if-it-is-a-good-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -287,4 +290,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KTanoojsai/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
